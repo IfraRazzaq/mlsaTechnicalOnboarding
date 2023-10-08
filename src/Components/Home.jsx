@@ -20,7 +20,7 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "https://avatars.githubusercontent.com/u/126340268?v=4";
+import image from "/workspaces/mlsaTechnicalOnboarding/__images__/126340268.jpeg";
 
 const imageAltText = "Ifra Razzaq";
 

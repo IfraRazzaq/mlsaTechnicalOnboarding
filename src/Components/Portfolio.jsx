@@ -33,7 +33,7 @@ const projectList = [
   {
     title: "SCD Final Term Project",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
+      "Software Construction and Design final term project. This project is about store management system",
     url: "https://github.com/IfraRazzaq/SCD-final-term-project.git",
   },
   {
